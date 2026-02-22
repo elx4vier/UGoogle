@@ -1,0 +1,8 @@
+{
+  "clear_history_title": "Clear search history?",
+  "clear_history_desc": "Press Enter to delete all saved search items",
+  "type_to_search": "Type to search on Google",
+  "previously_searched": "Previously searched",
+  "search_google": "Search on Google",
+  "suggestions_error": "Failed to fetch suggestions"
+}

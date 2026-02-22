@@ -1,0 +1,55 @@
+{
+  "manifest_version": 2,
+  "required_api_version": "^2.0.0",
+  "name": "UGoogle",
+  "description": "Fast Google search with suggestions and history",
+  "developer_name": "Xavier",
+  "icon": "images/icon.png",
+  "options": {
+    "query_debounce": 0.05
+  },
+  "preferences": [
+    {
+      "id": "kw",
+      "type": "keyword",
+      "name": "UGoogle",
+      "description": "Search with suggestions and history",
+      "default_value": "g"
+    },
+    {
+      "id": "suggestions_limit",
+      "type": "select",
+      "name": "Suggestions",
+      "default_value": "5",
+      "options": [
+        { "text": "5", "value": "5" },
+        { "text": "8", "value": "8" },
+        { "text": "10", "value": "10" }
+      ]
+    },
+    {
+      "id": "enable_history",
+      "type": "select",
+      "name": "History",
+      "default_value": "true",
+      "options": [
+        { "text": "On", "value": "true" },
+        { "text": "Off", "value": "false" }
+      ]
+    },
+    {
+      "id": "history_limit",
+      "type": "input",
+      "name": "History limit",
+      "description": "Max items: 1–10 (requires History On)",
+      "default_value": "5"
+    },
+    {
+      "id": "clear_keyword",
+      "type": "input",
+      "name": "Clear keyword",
+      "description": "Word to clear history",
+      "default_value": "clear"
+    }
+  ]
+}
