@@ -1,8 +1,8 @@
 {
-  "clear_history_title": "Очистить историю поиска?",
-  "clear_history_desc": "Нажмите Enter, чтобы удалить все сохранённые элементы",
-  "type_to_search": "Введите для поиска в Google",
-  "previously_searched": "Ранее искалось",
-  "search_google": "Искать в Google",
-  "suggestions_error": "Не удалось получить подсказки"
+  "clear_history_title": "Effacer l'historique de recherche ?",
+  "clear_history_desc": "Appuyez sur Entrée pour supprimer tous les éléments enregistrés",
+  "type_to_search": "Tapez pour rechercher sur Google",
+  "previously_searched": "Recherché précédemment",
+  "search_google": "Rechercher sur Google",
+  "suggestions_error": "Impossible d'obtenir des suggestions"
 }
