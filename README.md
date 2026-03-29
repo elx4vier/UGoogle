@@ -2,6 +2,8 @@
 
 **UGoogle** is a Ulauncher extension that provides a fast and convenient way to search Google directly from your desktop. It features search suggestions, a search history, and multi-language support.
 
+![demo gif](images/UGoogle.gif)
+
 ## Features
 
 - 🔍 **Instant Google Search** – Type your query and press Enter to search Google.
